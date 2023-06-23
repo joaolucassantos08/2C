@@ -20,7 +20,7 @@
 
 
     <body>
-    body{
+    body {
         background-color: var (--cor-de-fundo);
     }
 
