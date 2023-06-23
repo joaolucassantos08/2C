@@ -23,7 +23,13 @@
     body {
         background-color: var (--cor-de-fundo);
     }
-
+    <body>
+    <h1>Alurabook</h1>
+    <h1> {
+        background-color: white;
+    }
+    
+     
 
     </body>
 </html>
