@@ -11,7 +11,7 @@
 
    
    </head>
-    :root{
+ **   :root{
         --cor-de-fundo: #EBECEE;
     }
 
@@ -28,9 +28,12 @@
     <h1> {
         background-color: white;
     }
-       
+        <header class="cabeçalho">
+            <span  class="cabeçalho_menu-hanburguer"></span>
+            <img src="img/logo.svg">
 
-     
+
+
 
     </body>
-</html>
+</html>**
